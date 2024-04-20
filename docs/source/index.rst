@@ -16,4 +16,7 @@ Contents
 
 .. toctree::
 
+   01Introduction/index
+   02Functions/index
+   03Reports/index
    
